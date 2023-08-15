@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">BookGameStainlessSteelRat</string>
+    <string name="app_name">Stainless Steel Rat</string>
+    <string name="continue_game_button_text">Continue Game</string>
+    <string name="reset_progress_button_text">Reset Progress</string>
 </resources>
