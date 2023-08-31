@@ -27,7 +27,9 @@
             android:label="@string/game_process_activity"
             android:parentActivityName=".MainActivity"
             android:screenOrientation="fullSensor">
-            <meta-data android:name="android.support.PARENT_ACTIVITY" />
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.github.mspirat.bookgamestainlesssteelrat.MainActivity" />
         </activity>
 
         <meta-data

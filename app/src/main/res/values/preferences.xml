@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_key" translatable="false">com.github.mspirat.bookgamestainlesssteelrat.pref_key</string>
+
+    <string name="chapter_number" translatable="false">chapter_number</string>
+    <string name="chapter_title" translatable="false">chapter_title</string>
+
+</resources>
