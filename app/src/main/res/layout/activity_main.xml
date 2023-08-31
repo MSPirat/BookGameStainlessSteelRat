@@ -12,13 +12,13 @@
         style="@style/MainButton"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:onClick="openGame"
         android:layout_marginTop="440dp"
+        android:onClick="openGame"
         android:text="@string/continue_game_button_text"
-        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toTopOf="@id/reset_game_button"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent" />
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/reset_game_button"
@@ -30,6 +30,6 @@
         android:text="@string/reset_progress_button_text"
         app:layout_constraintEnd_toEndOf="@+id/open_game_button"
         app:layout_constraintStart_toStartOf="@+id/open_game_button"
-        app:layout_constraintTop_toBottomOf="@id/open_game_button"/>
+        app:layout_constraintTop_toBottomOf="@id/open_game_button" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
