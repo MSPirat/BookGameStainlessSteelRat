@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_0" translatable="false">Начало</string>
+    <string name="ch_0" translatable="false">Здесь будет текстовая часть квеста</string>
+
+</resources>
