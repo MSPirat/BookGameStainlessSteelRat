@@ -12,7 +12,7 @@
         style="@style/MainButton"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="440dp"
+        android:layout_marginTop="480dp"
         android:onClick="openGame"
         android:text="@string/continue_game_button_text"
         app:layout_constraintBottom_toTopOf="@id/reset_game_button"
