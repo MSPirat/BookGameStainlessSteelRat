@@ -74,6 +74,7 @@ class GameProcess : AppCompatActivity() {
                 mChapterText.setText(R.string.ch_0)
                 addButton(getString(R.string.way_0_30), 30)
             }
+
             // TODO Add more cases as needed
         }
     }
