@@ -76,83 +76,93 @@ class GameProcess : AppCompatActivity() {
             }
 
             1 -> {
-
+                mChapterText.setText(R.string.ch_1)
+                addButton(getString(R.string.way_1_229), 229)
+                addButton(getString(R.string.way_1_347), 347)
             }
 
             2 -> {
-
+                mChapterText.setText(R.string.ch_2)
+                addButton(getString(R.string.way_2_4), 4)
+                addButton(getString(R.string.way_2_138), 138)
             }
 
             3 -> {
-
+                mChapterText.setText(R.string.ch_3)
+                addButton(getString(R.string.way_3_218), 218)
             }
 
             4 -> {
-
+                mChapterText.setText(R.string.ch_4)
+                addButton(getString(R.string.way_4_134), 134)
             }
-
             5 -> {
-
+                mChapterText.setText(R.string.ch_5)
+                addButton(getString(R.string.way_5_342), 342)
+                addButton(getString(R.string.way_5_343), 343)
             }
-
             6 -> {
-
+                mChapterText.setText(R.string.ch_6)
+                addButton(getString(R.string.way_6_76), 76)
+                addButton(getString(R.string.way_6_232), 232)
             }
-
             7 -> {
-
+                mChapterText.setText(R.string.ch_7)
+                addButton(getString(R.string.way_7_65), 65)
             }
-
             8 -> {
-
+                setTitle(R.string.title_8)
+                mChapterText.setText(R.string.ch_8)
+                addButton(getString(R.string.way_8_253), 253)
             }
-
             9 -> {
-
+                mChapterText.setText(R.string.ch_9)
+                addButton(getString(R.string.way_9_311), 311)
             }
-
             10 -> {
-
+                mChapterText.setText(R.string.ch_10)
+                addButton(getString(R.string.way_10_82), 82)
             }
-
             11 -> {
-
+                mChapterText.setText(R.string.ch_11)
+                addButton(getString(R.string.way_11_140), 140)
             }
-
             12 -> {
-
+                mChapterText.setText(R.string.ch_12)
+                addButton(getString(R.string.way_12_65), 65)
             }
-
             13 -> {
-
+                mChapterText.setText(R.string.ch_13)
+                addButton(getString(R.string.way_13_88), 88)
             }
-
             14 -> {
-
+                mChapterText.setText(R.string.ch_14)
+                addButton(getString(R.string.way_14_99), 99)
             }
-
             15 -> {
-
+                mChapterText.setText(R.string.ch_15)
+                addButton(getString(R.string.way_15_113), 113)
             }
-
             16 -> {
-
+                mChapterText.setText(R.string.ch_16)
+                addButton(getString(R.string.way_16_139), 139)
             }
-
             17 -> {
-
+                mChapterText.setText(R.string.ch_17)
+                addButton(getString(R.string.way_17_115), 115)
             }
-
             18 -> {
-
+                mChapterText.setText(R.string.ch_18)
+                addButton(getString(R.string.way_18_87), 87)
             }
-
             19 -> {
-
+                mChapterText.setText(R.string.ch_19)
+                addButton(getString(R.string.way_19_49), 49)
+                addButton(getString(R.string.way_19_124), 124)
             }
-
             20 -> {
-
+                mChapterText.setText(R.string.ch_20)
+                addButton(getString(R.string.way_20_339), 339)
             }
 
             21 -> {
