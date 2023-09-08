@@ -21,13 +21,11 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         WindowCompat.setDecorFitsSystemWindows(window, false)
-
         val windowInsetsController = WindowInsetsControllerCompat(window, window.decorView)
-
 // Hide system bars
         windowInsetsController.hide(WindowInsetsCompat.Type.statusBars())
-
 
         setContentView(R.layout.activity_main)
 
