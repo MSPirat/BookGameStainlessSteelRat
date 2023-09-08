@@ -11,4 +11,5 @@
     <string name="reset_progress_message">Current game progress will be reset. Are you sure?</string>
     <string name="reset_progress_ok">OK</string>
     <string name="reset_progress_cancel">Cancel</string>
+    <string name="splash_screen" translatable="false">splash_screen</string>
 </resources>
